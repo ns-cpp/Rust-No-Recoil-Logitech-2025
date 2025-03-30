@@ -28,3 +28,8 @@ type “true” to select the attachment to use
 						local AK47_2_SILENCER = false
 						local AK47_2_MUZZLEBOOST = false
 ```
+## warning!
+Do not use buttons 1,2 and 3
+
+
+![G102](https://i.imgur.com/D9BmN3A.png)
