@@ -1,5 +1,7 @@
 
 # Rust No Recoil Logitech 2025
+
+# I am aware of the problem after the update and I am working on it. Stand by
 all weapons and attachments. works standing and crouching
 
 ![Uygulama Ekran Görüntüsü](https://user-images.githubusercontent.com/43559704/143996297-681039bf-a738-40e5-9881-5c50638ef14b.gif)
