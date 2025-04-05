@@ -1,7 +1,8 @@
 
 # Rust No Recoil Logitech 2025
 
-# I am aware of the problem after the update and I am working on it. Stand by
+## 04.03.2025 delay problem [**fixed**](#04032025-delay-problem-solution "04.03.2025 delay problem solution")
+
 all weapons and attachments. works standing and crouching
 
 ![Uygulama Ekran Görüntüsü](https://user-images.githubusercontent.com/43559704/143996297-681039bf-a738-40e5-9881-5c50638ef14b.gif)
@@ -35,3 +36,9 @@ Do not use buttons 1,2 and 3
 
 
 ![G102](https://i.imgur.com/D9BmN3A.png)
+
+
+## 04.03.2025 delay problem solution
+- **Uninstall** the current **ghub** application
+- Download  [Ghub version **2021.10**](https://logitech-g-hub.tr.uptodown.com/windows/download/4028752 "Ghub 2021.10")
+- Disable "Auto Update" from Ghub settings
